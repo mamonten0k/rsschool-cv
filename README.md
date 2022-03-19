@@ -1,1 +1,1 @@
-Initial state of git README.md
+Refractored state of git README.md
