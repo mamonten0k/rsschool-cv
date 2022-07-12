@@ -10,34 +10,8 @@ Currently on my third year in ITMO University, under specialization of "Developi
 ### Soft Skills
 >Fast learning, working in a team, time-management. 
 ## Code Example
-> Task "Maximum Perimeter Triangle" from [hackerranl.com].
-Task description: 
-Given an array of stick lengths, use 3 of them to construct a non-degenerate triangle with the maximum possible perimeter. Return an array of the lengths of its sides as 3 integers in non-decreasing order.  
-If there are several valid triangles having the maximum perimeter:  
-1. Choose the one with the longest maximum side.  
-2. If more than one has that maximum, choose from them the one with the longest minimum side.  
-3. If more than one has that maximum as well, print any one them.  
-If no non-degenerate triangle exists, return [-1].
-```
-function maximumPerimeterTriangle(sticks) {
-    // Write your code here
-    let output = 0;
-    let max = [-1];
-    sticks.sort((a, b) => a - b);
-    
-    for(let i = sticks.length; i >= 2; i--) {
-        for(let j = i - 1; j >= 1; j--)
-            for(let k = i - 2; k >= 0; k--) {
-                if(sticks[j] + sticks[k] > sticks[i] &&
-                sticks[j] + sticks[k] + sticks[i] > max) {
-                    max = [sticks[k], sticks[j], sticks[i]]
-                }
-            }
-    }
-    
-    return max == [-1] ? -1 : max;
-}
-```
+React App Boilerplate 
+Created universal react boilerplate with ts, you can [check it here](https://github.com/mamonten0k/react-bolierplate). Still need to upgrade it by using probably webpack 5 threads.
 ## Job Expirience 
 When I studied "Front-End Web Development with React" on Coursera, I used to work with React, Redux, React-Router, Webpack. It resulted in application, that have a description of local Indian food recipes, as well as some forms to leave comments on this concrete dishes. 
 ## Education
