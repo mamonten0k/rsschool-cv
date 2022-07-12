@@ -1,7 +1,7 @@
 # Lobanov Ivan
 ## Contacts:
 > Phone number: +7(931)-402-71-44  
-> Email: [asdnbvb123@gmail.com](asdnbvb123@gmail.com)
+> Email: [lobanvwrk18@gmail.com](lobanvwrk18@gmail.com)
 ## About myself.
 Currently on my third year in ITMO University, under specialization of "Developing of graphic and web applications". I am highly interesterd in web development, and since November learning in this field. Currently finishing learning React. After that I want to test developing apps with Next.js and React Query. Very curious about blockchain development, would like to learn Rust and read more about smart-contracts. Opened to job proposals in field of frontend development. Despite I might not have any commertial expirience, I believe myself as a fast learner and expirienced in theoretical field.
 ## Skills
