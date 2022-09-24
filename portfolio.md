@@ -1,4 +1,4 @@
-# I have createda few pet projects: 
+# My pet-projects:
 
 - A virtual keyboard, written by me during the mentioned course: [link here](https://mamonten0k.github.io/virtual-keyboard/index.html)
 - SPA, written as a project for University, I used NextJS, SCSS, Webpack. It is not deployed, adding a sourcecode link: [link here](https://github.com/mamonten0k/mangafun-app/tree/development-test)
